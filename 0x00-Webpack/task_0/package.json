@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "jQuery": "^1.7.4",
+    "jquery": "^3.7.0",
     "webpack": "^5.88.2",
     "webpack-cli": "^5.1.4"
   }
