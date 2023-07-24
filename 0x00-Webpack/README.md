@@ -1,2 +1,2 @@
 ### React
-Readme file for the repository *alx-react*.  
+Readme file for the directory *0x00-Webpack*.  
