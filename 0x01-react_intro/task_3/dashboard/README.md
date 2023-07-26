@@ -1,2 +1,2 @@
-# task 3
-## image coming soon
+### React
+Readme file for the directory *dashbord*.
