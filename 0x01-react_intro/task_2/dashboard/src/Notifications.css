@@ -1,0 +1,16 @@
+:root {
+	--main-color: #E11D3F;
+}
+
+.Notifications {
+	border: 2px dotted var(--main-color);
+	padding: 1rem;
+}
+
+[data-priority="default"] {
+	color: blue;
+}
+
+[data-priority="urgent"] {
+	color: var(--main-color);
+}
