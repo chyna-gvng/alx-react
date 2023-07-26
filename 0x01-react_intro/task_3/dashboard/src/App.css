@@ -1,0 +1,34 @@
+.App-header {
+  display: flex;
+  color: #e0344a;
+  align-items: center;
+  border-bottom: thick solid #e0344a;
+}
+
+.App-header img {
+  width: 144px;
+}
+
+.App-header h1 {
+  margin: 0;
+}
+
+.App-body {
+  padding: 16px 24px;
+}
+.App-body input,
+.App-body button {
+  margin: 4px;
+}
+.App-body button {
+  cursor: pointer;
+}
+
+.App-footer {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  text-align: center;
+  font-style: italic;
+  border-top: thick solid #e0344a;
+}
