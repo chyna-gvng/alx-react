@@ -1,2 +1,2 @@
 ### React
-Readme file for the directory *dashbord*.
+Readme file for the directory *task_0*.
