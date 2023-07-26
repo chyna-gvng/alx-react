@@ -1,0 +1,49 @@
+:root {
+  --main-color: #E11D3F;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+
+.App {
+  background-color: #ffffff;
+     display: flex;
+     flex-direction: column;
+}
+
+.App-logo {
+  width: 200px;
+  height: 200px;
+}
+
+
+.App-header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font: size 25px;;
+  color: white;
+  border-bottom: 3px solid var(--main-color);
+}
+.App-header h1 {
+  font-size: 40px;
+  font-weight: bolder;
+  color: var(--main-color);
+  margin: 20px 10px 0 10px;
+}
+
+.App-body {
+ display: flex;
+ flex-direction: column;
+ margin: 1rem;
+ min-height: 50vh;
+ font-weight: bolder;
+}
+
+.App-footer {
+  display: flex;
+  flex-direction: column;
+  border-top: 3px solid var(--main-color);
+  text-align: center;
+  font-style: italic;
+  font-weight: bolder;
+}
