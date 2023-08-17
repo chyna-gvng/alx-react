@@ -1,5 +1,5 @@
-import { is } from "immutable";
+import { Map } from 'immutable';
 
-const areMapsEqual = (map1, map2) => is(map1, map2);
+const mergeDeeplyElements = (page1, page2) => Map(page1).mergeDeep(Map(page2));
 
-export default areMapsEqual;
+export default mergeDeeplyElements;
