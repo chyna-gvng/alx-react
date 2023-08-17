@@ -1,4 +1,4 @@
-import getImmutableObject from './0-fromjs';
+import getImmutableObject from "./0-fromjs";
 
 const obj = {
   fear: true,
